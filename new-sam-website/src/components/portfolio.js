@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export default class Portfolio extends component {
+export default class Portfolio extends Component {
     render() {
         return (
             <section className="page-section portfolio" id="portfolio">
