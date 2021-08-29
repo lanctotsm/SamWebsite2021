@@ -1,6 +1,8 @@
 {
-  "name": "new-sam-website",
   "version": "0.1.0",
+  "short_name": "Personal Page",
+  "name": "newsamwebsite",
+  "homepage": "https://lanctotsm.github.io/SamWebsite2021/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
