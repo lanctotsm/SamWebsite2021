@@ -1,6 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Personal Page",
+  "name": "Sam Personal Page",
+  "homepage": "https://lanctotsm.github.io/SamWebsite2021/",
+  "private": true,
   "icons": [
     {
       "src": "favicon.ico",
