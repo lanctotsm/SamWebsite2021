@@ -1,9 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 import Nav from './components/navigation';
-import Masthead from './components/MastHead';
+import Masthead from './components/masthead';
 import Portfolio from './components/portfolio';
 import AboutUs from './components/aboutus';
+import ContactUs from './components/contactus';
+import Footer from './components/footer';
+import Modals from './components/modals';
 
 function App() {
   return (
@@ -28,6 +31,7 @@ function App() {
       <AboutUs></AboutUs>
       <ContactUs></ContactUs>
       <Footer></Footer>
+      <Modals></Modals>
       <div class="copyright py-4 text-center text-white">
         <div class="container"><small>Copyright &copy; Your Website 2021</small></div>
       </div>
