@@ -2,7 +2,7 @@
   "version": "0.1.0",
   "short_name": "Personal Page",
   "name": "newsamwebsite",
-  "homepage": "https://lanctotsm.github.io/SamWebsite2021git ",
+  "homepage": "https://lanctotsm.github.io/SamWebsite2021",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
