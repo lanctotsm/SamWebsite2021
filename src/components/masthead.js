@@ -5,7 +5,7 @@ export default class Masthead extends Component {
     render() {
         return (<header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
-                <img class="masthead-avatar mb-5" src="assets/img/samhead.png" alt="Sam Lanctot" />
+                <img class="masthead-avatar mb-5" src="assets/img/avataaars.svg" alt="..." />
                 <h1 class="masthead-heading text-uppercase mb-0">Start Bootstrap</h1>
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
